@@ -1,6 +1,7 @@
 # calulator
-
 A new Flutter project.
+It contains basic operations of calculator like addition, Subtraction, multiplication, Division.
+Dart programming language is used.
 
 ## Getting Started
 
